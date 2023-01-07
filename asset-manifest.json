@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ranasinghe98.github.io/REACT_E_COMMERCE/static/css/main.4f196595.css",
-    "main.js": "/ranasinghe98.github.io/REACT_E_COMMERCE/static/js/main.ec513784.js",
-    "index.html": "/ranasinghe98.github.io/REACT_E_COMMERCE/index.html",
-    "main.4f196595.css.map": "/ranasinghe98.github.io/REACT_E_COMMERCE/static/css/main.4f196595.css.map",
-    "main.ec513784.js.map": "/ranasinghe98.github.io/REACT_E_COMMERCE/static/js/main.ec513784.js.map"
+    "main.css": "/REACT_E_COMMERCE/static/css/main.4f196595.css",
+    "main.js": "/REACT_E_COMMERCE/static/js/main.ec513784.js",
+    "index.html": "/REACT_E_COMMERCE/index.html",
+    "main.4f196595.css.map": "/REACT_E_COMMERCE/static/css/main.4f196595.css.map",
+    "main.ec513784.js.map": "/REACT_E_COMMERCE/static/js/main.ec513784.js.map"
   },
   "entrypoints": [
     "static/css/main.4f196595.css",
